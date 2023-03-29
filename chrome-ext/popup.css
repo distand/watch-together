@@ -1,0 +1,27 @@
+button {
+    height: 30px;
+    width: 60px;
+    outline: none;
+    margin: 10px;
+    border: 0;
+    box-shadow: 0 0 0 2px white,
+                0 0 0 4px black;
+    border-radius: 2px;
+    cursor: pointer;
+  }
+
+p {
+  text-align: center;
+}
+
+#sec {
+  color:green
+}
+
+.connected {
+  color: green
+}
+
+.disconnect {
+ color: red
+}
